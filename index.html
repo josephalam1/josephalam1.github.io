@@ -26,7 +26,9 @@
          text-decoration: none; 
         }
         .assignment::after {
-          clear: both;
+          content: '';
+          display: block;
+          clear: both;        
         }
         .no_stretch {
          object-fit: cover; 
@@ -46,7 +48,6 @@
             </p>
           </section>
       </section>
-      <br style="clear: both;" />
       <!-- Affinity Diagram Assignment -->
       <section class="assignment">
         <a href="files/affinity-diagram.pdf"><img class="no_stretch" src="/images/affinity.png" alt="Affinity Diagram" /></a>
