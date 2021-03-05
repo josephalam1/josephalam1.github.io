@@ -3,11 +3,12 @@
          background: #61bee8; 
         }
         .assignment {
-          background: #f9f9f9;
+          background: #ffffff;
           box-shadow: 0 0 4px #1e5c8e;
           margin: 20px;
           padding: 20px;
           display: flex;
+          color: #313131;
         }
         .assignment img {
           width: 200px;
