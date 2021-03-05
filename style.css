@@ -10,8 +10,8 @@
           display: flex;
         }
         .assignment img {
-          width: 400px;
-          height: 400px;
+          width: 200px;
+          height: 200px;
           margin: 20px;
           box-shadow: 0 0 5px 1px #d0d0d0;
         }
