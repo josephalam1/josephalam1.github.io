@@ -15,7 +15,8 @@
           width: 200px;
           height: 200px;
           margin: 20px;
-          box-shadow: 0 0 5px 1px #d0d0d0;
+          border: 1px solid #d0d0d0;
+          box-shadow: 0 0 3px 1px #e0e0e0;
         }
         .assignment_details a {
          text-decoration: none; 
