@@ -4,6 +4,7 @@
         }
         .assignment {
           background: #ffffff;
+          border: 1px solid #0071cc;
           box-shadow: 0 0 4px #1e5c8e;
           margin: 20px;
           padding: 20px;
