@@ -19,8 +19,9 @@
           box-shadow: 0 0 3px 1px #e0e0e0;
           transition: all 1s;
         }
-        .assignment_img:hover {
-          border: 1px solid #000;        
+        .assignment img:hover {
+          border: 1px solid #000;   
+          box-shadow: 0 0 3px 1px #e0e0e0;
         }
         .assignment_details {
           width: 75%        
