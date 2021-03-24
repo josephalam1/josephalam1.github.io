@@ -16,11 +16,11 @@
           height: 150px;
           margin: 20px;
           border: 1px solid #d0d0d0;
-          box-shadow: 0 0 3px 1px #e0e0e0;
-          transition: all 1s;
+          box-shadow: 0 0 3px 1px #b4ddef;
+          transition: border 0.5s, box-shadow 0.5s;
         }
         .assignment img:hover {
-          border: 1px solid #000;   
+          border: 1px solid #a5d4e8;   
           box-shadow: 0 0 3px 1px #e0e0e0;
         }
         .assignment_details {
@@ -40,7 +40,7 @@
          color: #0071cc; 
         }
         h2:hover {
-                color: red;
+                color: #d0d0d0;
         }
         .no_stretch {
          object-fit: cover; 
